@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+<title>Mercury winged message emblem</title>
+<rect width="96" height="96" rx="24" fill="#382949"/>
+<circle cx="48" cy="47" r="32" fill="none" stroke="#D9B878" stroke-opacity=".3"/>
+<g fill="none" stroke="#D9B878" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 41C22 40 16 32 13 25c11 2 17 5 23 10M30 45C21 46 16 40 14 36M64 41c10-1 16-9 19-16-11 2-17 5-23 10M66 45c9 1 14-5 16-9"/>
+<rect x="29" y="39" width="38" height="27" rx="4" fill="#382949"/>
+<path d="m31 42 17 13 17-13M31 63l11-11m23 11L54 52"/>
+</g></svg>
