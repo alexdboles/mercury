@@ -1,4 +1,4 @@
-# Mercury
+# Mercury — Social Media Planner
 
 **Messenger of your next story.**
 
