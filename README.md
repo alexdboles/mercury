@@ -1,5 +1,7 @@
 # Mercury — Social Media Planner
 
+[Project case study](docs/CASE_STUDY.md) — problem, decisions, verification, and limitations.
+
 **Messenger of your next story.**
 
 Mercury is a local desktop social media planner inspired by the Roman messenger god. A winged message emblem, restrained bronze details, and an ivory-and-plum workspace bring that identity into a practical calendar-based tool.
